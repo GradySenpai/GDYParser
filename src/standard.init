@@ -1,0 +1,7 @@
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+!@#$%^&*-+=:;<>/,
+seperator: ,
+literal: ""''
+special: ()[]{}
+space_seperator
+noempty
